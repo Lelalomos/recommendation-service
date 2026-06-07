@@ -7,3 +7,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = https://github.com/Lelalomos/rabbitMQ-service-recommendation.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/Lelalomos/postgresql-service-recommendation.git
