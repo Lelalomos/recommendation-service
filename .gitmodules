@@ -10,3 +10,6 @@
 [submodule "postgresql"]
 	path = postgresql
 	url = https://github.com/Lelalomos/postgresql-service-recommendation.git
+[submodule "api-service"]
+	path = api-service
+	url = https://github.com/Lelalomos/api-service-reccomdations.git
