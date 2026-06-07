@@ -4,3 +4,6 @@
 [submodule "worker"]
 	path = worker
 	url = https://github.com/Lelalomos/worker-service-recommendation.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/Lelalomos/rabbitMQ-service-recommendation.git
