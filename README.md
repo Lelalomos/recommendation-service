@@ -17,6 +17,7 @@ how to improve in the feaure
 3. ดึง config ทั้งหมดเข้าไปใน Database เพื่อที่เวลาจะเปลี่ยน config จะได้ไม่ต้องทำการ restart service ทุกรอบ ยกตัวอย่างเช่นการ set ค่า weight ในการคำนวณ ค่าความเหมือน(similarity) จะสามารถเปลี่ยนได้ทุกเมื่อเพียงแค่เปลี่ยน config จาก database และ service ที่คำนวณต้องเพิ่ม process การดึงข้อมูล config ใน Database ทุกครั้งก่อนเริ่มทำงาน
 
 how to setup recommended system
+
 รันทุก service ขึ้นมาโดยการใช้คำสั่งดังนี้
 1. ให้ terminal เข้ามาที่ recommendation-service folder
 2. เข้าไปใน api-service folder แล้วรัน ./scripts/start_api_compose.sh ใช้คำสั่งนี้เพื่อ build และ run service ของ API
