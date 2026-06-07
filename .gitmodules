@@ -1,6 +1,6 @@
 [submodule "vector_db"]
 	path = vector_db
-	url = https://github.com/vector-database-recommendation.git
+	url = https://github.com/Lelalomos/vector-database-recommendation.git
 [submodule "worker"]
 	path = worker
 	url = https://github.com/Lelalomos/worker-service-recommendation.git
